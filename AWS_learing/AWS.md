@@ -112,4 +112,3 @@ You should build at least 3–5 solid projects:
 - Dockerized app deployed on ECS or EKS
 ----------
 
-Test of auto sync
