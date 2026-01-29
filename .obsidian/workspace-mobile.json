@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AWS_learing/Phase 3 Databases & Monitoring.md",
+                "file": "OCP cases/Cases and solutions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase 3 Databases & Monitoring"
+              "title": "Cases and solutions"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "c9d0f925e9616e16",
   "lastOpenFiles": [
+    "AWS_learing/Phase 3 Databases & Monitoring.md",
     "AWS_learing/AWS.md"
   ]
 }
