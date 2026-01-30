@@ -119,4 +119,5 @@ Primary Ethernet interface
 - **UP** → Enabled
     
 - **LOWER_UP** → Physical link detected (cable / virtual link OK)
+test
 
